@@ -16,7 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"mamamiya");
+    NSLog(@"看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里看这里");
 }
 
 - (void)didReceiveMemoryWarning {
